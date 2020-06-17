@@ -1,49 +1,35 @@
 ---
 templateKey: index-page
-title: This is just the best
-image: /img/home-jumbotron.jpg
-heading: Coffee is my life
-subheading: Support sustainable farming while enjoying a cup
+title: Hoffmeyer Photo
+image: /img/header.jpg
+heading: Se mit portfolie
+subheading: Fotograf Micael Hoffmeyer
 mainpitch:
-  title: Why Michael
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Jeg er en god fotograf og fotograferer ofte
+  description: >-
+    Jeg er især vild med mit makroobjektiv. Det kan jeg få mange gode stunder
+    til at gå med.
+
+    Jeg sad engang og fotograferede med en kat på rykken. Det minder mig om dengang en due satte sig på mit hoved mens jeg var ude og fiske med vaders.
+description: Jeg udstiller her udvalgte billeder fra mit portfolie. Har du
+  masser af penge at brænde af kan du kontakte mig, så finder vi ud af noget.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/dsc_8425.jpg
+      text: |
+        Solnedgang ved Havnsø tror jeg nok. Det var en flot aften.
+    - image: /img/duer-forår.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/tutorials.png
+        Nogle duer der hygger sig. Jeg var lige hurtig med et skud fra hoften da
+        jeg så de ladge and til halløj.
+    - image: /img/dsc_8557.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        En mælkebøtte jeg fangede med mit makroobjektiv. Den havde en underlig
+        farve så den måtte jeg have et billede af.
+    - image: /img/dsc_8580.jpg
+      text: En anden mælkebøtte. Denne her er et billede med et andet format end de
+        andre, så jeg vil lige se hvordan det bliver håndteret når man putter
+        det på.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
