@@ -5,6 +5,15 @@ module.exports = {
       'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
   plugins: [
+    {
+      resolve: 'gatsby-source-flickr',
+      options: {
+        api_key: "41f0e91a2bd5c53196b5e01d9f0a10d7",
+        user_id: "96025390@N06",
+        method: 'flickr.photosets.getPhotos',
+        photoset_id: "72157714609076891",
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
